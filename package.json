@@ -1,0 +1,31 @@
+{
+  "name": "formula",
+  "version": "0.0.1",
+  "description": "Formula 1 like game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "bower": "~1.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wiliamsouza/formula"
+  },
+  "keywords": [
+    "game",
+    "html",
+    "javascript",
+    "phaser"
+  ],
+  "author": "Wiliam Souza <wiliamsouza83@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wiliamsouza/formula/issues"
+  },
+  "homepage": "https://github.com/wiliamsouza/formula"
+}
