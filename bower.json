@@ -1,0 +1,29 @@
+{
+  "name": "formula",
+  "version": "0.0.1",
+  "authors": [
+    "Wiliam Souza <wiliamsouza83@gmail.com>"
+  ],
+  "description": "Formula 1 like game",
+  "main": "css/formula.css",
+  "keywords": [
+    "game",
+    "html5",
+    "javascript",
+    "formula1",
+    "phaser"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "phaser": "~1.1.6"
+  }
+}
